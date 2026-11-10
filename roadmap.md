@@ -1,0 +1,12 @@
+# Roadmap
+- [x] Site completo
+- [x] Tema claro + fotos
+- [x] Mais profissional e animado
+- [x] WhatsApp 5567998852620 nos botões de agendamento
+- [x] Enquadrar foto de capa e textos no celular
+- [x] Assistente AI Gateway com conversa única salva na conta
+- [x] Conferir e ajustar capa em celular e tablet
+- [x] Mostrar visitas e origens do site
+- [x] Refinar acabamento visual de alto padrão mantendo a identidade
+- [x] Redesenhar apresentação premium com capa imersiva e seções mais profissionais
+- [x] Conferir navegação e apresentação em celular, tablet e computador
